@@ -1,4 +1,4 @@
-Sure! Here is an explanation of the code line by line:
+ Here is an explanation of the code
 
 1. `using System;`: This line includes the `System` namespace, which contains fundamental classes and base classes that define commonly-used value and reference data types, events, and event handlers.
 
